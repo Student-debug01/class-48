@@ -1,0 +1,68 @@
+[
+  {
+    "id": "240f52e2-e4b8-4527-bb47-49e50f8576e0",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@rate",
+        "alias": "rate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "222e6e5a-d1f9-441a-b04a-cd71213d8cb0",
+    "data": [
+      {
+        "text": "4",
+        "meta": "@rate",
+        "alias": "rate",
+        "userDefined": true
+      },
+      {
+        "text": " @rate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d98554f9-5c18-45bd-9848-e96053fa5555",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@rate",
+        "alias": "rate",
+        "userDefined": true
+      },
+      {
+        "text": " @rate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7aaf414e-7c78-4e7e-a8ee-8279fc2997a1",
+    "data": [
+      {
+        "text": "3 @rate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

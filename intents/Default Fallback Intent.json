@@ -1,0 +1,67 @@
+{
+  "id": "0fb04bcd-93b3-4754-8713-f2777f2b90a9",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Chennaiisacitywherebeachesrthereanditssosunny",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I didn\u0027t get that. Can you say it again?",
+            "I missed what you said. What was that?",
+            "Sorry, could you say that again?",
+            "Sorry, can you say that again?",
+            "Can you say that again?",
+            "Sorry, I didn\u0027t get that. Can you rephrase?",
+            "Sorry, what was that?",
+            "One more time?",
+            "What was that?",
+            "Say that one more time?",
+            "I didn\u0027t get that. Can you repeat?",
+            "I missed that, say that again?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ta",
+          "speech": [
+            "எனக்குப் புரியவில்லை அதைத் திரும்பச் சொல்ல முடியுமா?",
+            "நீங்க சொன்னது புரியவில்லை. அதைத் திரும்பவும் சொல்ல முடியுமா?",
+            "அதை மீண்டும் சொல்ல முடியுமா?",
+            "சரியாகப் புரியவில்லை, மீண்டும் அதைச் சொல்ல முடியுமா?",
+            "திரும்பவும் சொல்ல முடியுமா?",
+            "எனக்கு அது சரியாகப் புரியவில்லை.",
+            "அதைத் திரும்பவும் சொல்லுங்க",
+            "மீண்டும் ஒரு முறை சொல்ல முடியுமா?",
+            "நீங்க சொன்னது புரியவில்லை, திரும்பச் சொல்ல முடியுமா?",
+            "திரும்பவும் அதைச் சொல்ல முடியுமா?",
+            "சரியாகப் புரியவில்லை.",
+            "அது புரியவில்லை."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

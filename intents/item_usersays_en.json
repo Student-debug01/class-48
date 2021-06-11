@@ -1,0 +1,73 @@
+[
+  {
+    "id": "cac2c07b-4b15-48eb-97e7-5a91db06033b",
+    "data": [
+      {
+        "text": "basic sambar ",
+        "userDefined": false
+      },
+      {
+        "text": "rice",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ad0297a-c14f-4c7b-98ad-37ed529aa0c8",
+    "data": [
+      {
+        "text": "panner biryani",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "770b23ff-7311-4608-a7cc-58fd4b5e261d",
+    "data": [
+      {
+        "text": "panner tikka",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "452cb0a6-2db9-4301-a0b8-6ea8cfced7ff",
+    "data": [
+      {
+        "text": "gulab jamun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4371fa8c-7a9a-46f2-99ae-7c0cf6c7cba1",
+    "data": [
+      {
+        "text": "Soda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
